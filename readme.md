@@ -10,7 +10,6 @@ Audit every Yoast SEO field in one place—filter, sort, paginate, **export to C
 |---------|---------|
 | **Unified filters** | Search, post-type checkboxes, per-page dropdown, plus “Empty Title / Description / Keyphrase” toggles—apply & save in one click. |
 | **Column sorting** | Click any header (ID → Modified) to toggle ▲/▼. |
-| **Sleek pagination** | Pill-style nav retains every filter while you flip pages. |
 | **Color coding** | Rows turn 🟢 when **all** Yoast fields are filled (else zebra default). |
 | **CSV export** | One-click download of *all* filtered rows—CRLF-safe for Excel/Sheets, text sanitized to avoid column bleed. |
 | **WP All Import helper** | If the plugin is missing you get an “Install” button; if present you get “Start New Import”. |
