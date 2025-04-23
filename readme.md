@@ -27,6 +27,7 @@ Audit every Yoast SEO field in one place—filter, sort, paginate, **export to C
 
 > **PLEASE BACK UP YOUR SITE FIRST.** Install/ import at your own risk.
 
+![Audit table screenshot](./screenshot.png)
 
 ---
 
