@@ -14,18 +14,20 @@ Audit every Yoast SEO field in one place—filter, sort, paginate, **export to C
 | **Color coding** | Rows turn 🟢 when **all** Yoast fields are filled (else zebra default). |
 | **CSV export** | One-click download of *all* filtered rows—CRLF-safe for Excel/Sheets, text sanitized to avoid column bleed. |
 | **WP All Import helper** | If the plugin is missing you get an “Install” button; if present you get “Start New Import”. |
-| **Lightweight code** | No esc\_html/esc\_url clutter (per client request), minimal CSS scoped to `.yma` class. |
 
 ---
 
 ## 🚀 Installation
 
-1. Drop the **`yoast-meta-auditor.php`** file into  
-   `wp-content/plugins/yoast-meta-auditor/`.
-2. Activate **Yoast Meta Auditor** from **Plugins → Installed Plugins**.
-3. Navigate to **Tools → Yoast Meta Auditor**.
+1. **Download the latest release ZIP**  
+   <https://github.com/abchiaravalle/ac-yoast-meta-auditor/releases/latest>
 
-> **Important:** always run a full database backup before installing extra plugins or importing data.
+2. In WordPress admin go to **Plugins → Add New → Upload Plugin** and select the ZIP.
+
+3. Click **Activate**.
+
+> **PLEASE BACK UP YOUR SITE FIRST.** Install/ import at your own risk.
+
 
 ---
 
